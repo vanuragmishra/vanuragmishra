@@ -1,6 +1,6 @@
 # Hi, I'm Anurag Mishra 👋
 
-### Cloud & DevOps Engineer | Azure | AWS | Terraform | CI/CD | Infrastructure Automation
+### Cloud & DevSecOps Engineer | Azure | AWS | Terraform | CI/CD | Infrastructure Automation
 
 Welcome to my GitHub profile!
 
