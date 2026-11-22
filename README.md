@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I am a Cloud and DevOps Engineer with 5+ years of experience in cloud infrastructure, infrastructure automation, Linux administration, CI/CD pipelines, and production operations.
+I am a Cloud and DevOps Engineer with 7+ years of experience in cloud infrastructure, infrastructure automation, Linux administration, CI/CD pipelines, and production operations.
 
 I enjoy designing, automating, and managing scalable, secure, and reliable cloud infrastructure.
 
